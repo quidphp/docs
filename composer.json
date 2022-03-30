@@ -1,0 +1,14 @@
+{
+    "name": "quidphp/docs",
+    "type": "testsuite",
+    "description": "Documentation for the QuidPHP framework and the Lemur CMS",
+    "keywords": ["quidphp","quid","php-framework","php-cms","lemur-cms","documentation"],
+    "homepage": "https://quidphp.com",
+    "license": "MIT",
+    "authors": [{
+        "name": "Pierre-Philippe Emond",
+        "email": "emondpph@gmail.com",
+        "homepage": "https://emond.io",
+        "role": "Developer"
+    }]
+}
