@@ -1,6 +1,6 @@
 {
     "name": "quidphp/docs",
-    "type": "testsuite",
+    "type": "documentation",
     "description": "Documentation for the QuidPHP framework and the Lemur CMS",
     "keywords": ["quidphp","quid","php-framework","php-cms","lemur-cms","docs","documentation"],
     "homepage": "https://quidphp.com",
