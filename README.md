@@ -4,10 +4,10 @@
 [![Code Size](https://img.shields.io/github/languages/code-size/quidphp/docs)](https://github.com/quidphp/docs)
 
 ## About
-Documentation for the QuidPHP framework and the Lemur CMS
+Documentation for the QuidPHP framework and Lemur CMS
 
 ## License
 **QuidPHP/Docs** is available as an open-source package under the [MIT license](LICENSE).
 
-## March 30, 2022
+## July 2nd, 2022
 The documentation is a work in progress.

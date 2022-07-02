@@ -1,7 +1,7 @@
 {
     "name": "quidphp/docs",
     "type": "documentation",
-    "description": "Documentation for the QuidPHP framework and the Lemur CMS",
+    "description": "Documentation for the QuidPHP framework and Lemur CMS",
     "keywords": ["quidphp","quid","php-framework","php-cms","lemur-cms","docs","documentation"],
     "homepage": "https://quidphp.com",
     "license": "MIT",
